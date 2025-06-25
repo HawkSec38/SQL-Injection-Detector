@@ -15,4 +15,4 @@ requests library (pip install requests)
 ## Usage for linux
 ```bash
 cd SQL Injection Detector
-python sql_dec.py
+python3 sql_dec.py
