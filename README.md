@@ -7,7 +7,12 @@ A simple Python script to detect SQL injection vulnerabilities in web applicatio
 - Detects common SQL error patterns
 - Supports proxy routing through Burp Suite
 - Handles GET request parameters
+- 
+## Requirements
+Python 3
+requests library (pip install requests)
 
-## Usage
+## Usage for linux
 ```bash
+cd SQL Injection Detector
 python sql_dec.py
